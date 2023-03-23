@@ -63,8 +63,7 @@ h2 {
 }
 .app .todos .todo {
   margin-top: 0.8em;
-  margin-left: -4%;
-  width: 94%;
+  width: 20em;
   height: 2em;
   background-color: white;
   display: flex;
@@ -86,4 +85,3 @@ h2 {
   font-style: normal;
   color: grey;
 }
-
